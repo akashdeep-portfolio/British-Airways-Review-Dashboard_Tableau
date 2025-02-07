@@ -1,4 +1,4 @@
-# British Airways Customer Reviews Dashboard
+# British Airways Customer Reviews [Dashboard](https://public.tableau.com/shared/Z2GX48ND5?:display_count=n&:origin=viz_share_link)
 
 ![British_Airways-Airbus_A321neo_in_flight-640x360-ref180939](https://github.com/user-attachments/assets/deb4f4a1-9eb4-4924-a224-203af2c3941d)
 
@@ -164,7 +164,7 @@ for improving service quality and enhancing customer experience.
 
 # References & Resources
 
-- Data Sources: British Airways Review Dataset, Country Mapping Data.
+- [Kaggle](https://www.kaggle.com/datasets/yaranathakur/british-airways-reviews/data): British Airways Review Dataset, Country Mapping Data.
 
 - Tools Used: Tableau for visualization, Excel for data preprocessing.
 
