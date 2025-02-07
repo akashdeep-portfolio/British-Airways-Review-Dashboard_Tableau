@@ -50,7 +50,7 @@ The project aims to address key business questions:
 
 Data Importation
 
-- Imported two CSV files (ba_reviews.csv and Countries.csv) into
+- Imported two CSV files ([ba_reviews.csv](https://github.com/akashdeep-portfolio/British-Airways-Review-Dashboard_Tableau/blob/main/ba_reviews.csv) and [Countries.csv](https://github.com/akashdeep-portfolio/British-Airways-Review-Dashboard_Tableau/blob/main/Countries.csv)) into
   Tableau.
 
 - Established a relationship between "place" (in ba_reviews.csv) and
