@@ -31,7 +31,7 @@ The project aims to address key business questions:
 
 ## Data Sources
 
-- [British Airways Reviews Dataset](https://www.kaggle.com/datasets/yaranathakur/british-airways-reviews/data): Contains customer feedback, ratings,
+- [British Airways Reviews Dataset from Kaggle](https://www.kaggle.com/datasets/yaranathakur/british-airways-reviews/data): Contains customer feedback, ratings,
   flight details, and service aspects.
 
 - Country Mapping Dataset: Links customer reviews to geographical
